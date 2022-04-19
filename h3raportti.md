@@ -39,3 +39,7 @@ Käytin apuna kyseistä ohjetta https://terokarvinen.com/2018/salt-states-i-want
 sudo nano hello.sls
 sudo nano hellovaltteri.txt
 sudo salt ’*’ state.apply hello
+
+pohjana tero karvisen kurssi 
+
+https://terokarvinen.com/2021/configuration-management-systems-2022-spring/
