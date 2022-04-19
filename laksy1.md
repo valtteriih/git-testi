@@ -1,1 +1,1 @@
-tehtavaan b osa 1
+tehtavaan b osa 1 onko tama muuttunut

@@ -1,1 +1,1 @@
-tehtavaan b osa 2
+tehtavaan b osa 2 onko muutoksia
