@@ -40,6 +40,8 @@ sudo nano hello.sls
 sudo nano hellovaltteri.txt
 sudo salt ’*’ state.apply hello
 
+lopetin kirjoituksen klo 12.45
+
 pohjana tero karvisen kurssi 
 
 https://terokarvinen.com/2021/configuration-management-systems-2022-spring/
