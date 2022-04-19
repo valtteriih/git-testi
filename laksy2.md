@@ -1,1 +1,1 @@
-tehtavaan b osa 2 onko muutoksia
+tehtavaan b osa 2 onko muutoksia p2
